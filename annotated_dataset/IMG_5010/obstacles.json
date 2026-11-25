@@ -1,0 +1,1 @@
+{"obstacles": [], "types": ["ship_structure", "vessel_object", "cloud", "glare", "wake_spray", "other"], "mask": "obstacle_mask.png (photo resolution, 255 = obstacle)", "note": "type is a heuristic on geometry and colour; the network segments one obstacle class"}

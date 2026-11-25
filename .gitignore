@@ -1,0 +1,10 @@
+# scratch left by the Claude sessions
+_to_delete/
+.transfer/
+# python
+__pycache__/
+*.pyc
+# training outputs (shipped models are the ONNX files in models/)
+/runs*/
+/cv*/
+*.pt

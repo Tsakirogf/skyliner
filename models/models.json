@@ -1,0 +1,10 @@
+{
+ "scene": {
+  "file": "scene.onnx",
+  "sha256_10": "22d3f1fd1f"
+ },
+ "edge": {
+  "file": "edge.onnx",
+  "sha256_10": "75935f95a0"
+ }
+}

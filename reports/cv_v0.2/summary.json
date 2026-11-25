@@ -1,0 +1,40 @@
+{
+ "before_calibration": {
+  "photos": 116,
+  "rejected": 0,
+  "horizon_low": 14,
+  "horizon_err_px2048_median": 0.6534940377595194,
+  "horizon_err_px2048_p90": 2.82175675501363,
+  "roll_err_deg_median": 0.029951381019235723,
+  "roll_err_deg_p90": 0.1437157763705882,
+  "height_err_deg_median": 0.012485678234871976,
+  "height_err_deg_p90": 0.06148564574942511,
+  "land_recall": 0.9173706149249327,
+  "false_land": 0.03910427807486631,
+  "wrong_layer_frac": 0.010133097430536009,
+  "sigma_cov_1": 0.9276207326390286,
+  "sigma_cov_2": 0.981141179782058,
+  "height_err_deg_p90_good_horizon": 0.045915225908529325,
+  "waterline_err_px2048_median": 0.7,
+  "waterline_recall": 0.906932145666925
+ },
+ "after_calibration": {
+  "photos": 116,
+  "rejected": 0,
+  "horizon_low": 14,
+  "horizon_err_px2048_median": 0.6534940377595194,
+  "horizon_err_px2048_p90": 2.82175675501363,
+  "roll_err_deg_median": 0.029951381019235723,
+  "roll_err_deg_p90": 0.1437157763705882,
+  "height_err_deg_median": 0.012485678234871976,
+  "height_err_deg_p90": 0.06148564574942511,
+  "land_recall": 0.9173706149249327,
+  "false_land": 0.03910427807486631,
+  "wrong_layer_frac": 0.010133097430536009,
+  "sigma_cov_1": 0.7229482488238369,
+  "sigma_cov_2": 0.9110740279062286,
+  "height_err_deg_p90_good_horizon": 0.045915225908529325,
+  "waterline_err_px2048_median": 0.7,
+  "waterline_recall": 0.906932145666925
+ }
+}
